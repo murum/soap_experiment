@@ -1,0 +1,5 @@
+*.project
+*.DS_Store
+wsdl2php/EasyWsdl2PHP.php
+
+wsdl2php/wsdl2php.php
